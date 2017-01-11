@@ -26,7 +26,7 @@ Weather Elements to Display
 
 App Description
 -------------------
-WeatherApp simply displays the basic weather details in a clean, concise. Check the current temperature and chance of rain for your location, while also being able to view the forecast for the next 4 days. WeatherApp will also send you alerts to keep you up to date on your area's weather conditions.
+WeatherApp simply displays the basic weather details in a clean, concise. Check the current temperature and chance of rain for your location, while also being able to view the forecast for the next 4 days. WeatherApp will also send you alert to keep you up to date on your area's weather conditions.
 
 ----------
 
